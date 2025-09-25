@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi  👋, I'm Momen Tarek</h1>
 <h3 align="center">A frontend developer from Egypt</h3>
+<h3 align="center">A frontend developer from Egypt with 2 years of Angular experience</h3>
 
 <div align="center" style="margin: 50px ; border-radius: 15px;">
   <img style="border-radius: 15px;" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"/>
@@ -15,19 +16,19 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=momentarek11" alt="momentarek11" /></a>
 </p>
 
-- 🌱 I’m currently learning **Angular.js, React.js, Vue.js**
+- 🌱 I’m currently learning **Angular, React.js, Vue.js**
 
 <h3 align="center" style="margin: 50px ;">Connect with me:</h3>
 
-<p align="center" style="margin: 50px ;">
-  <a href="https://codepen.io/momentarek11" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="momentarek11" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/www.linkedin.com/in/momen-tarek-53a740244" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/momen-tarek-53a740244" height="30" width="40" /></a>
-  <a href="https://fb.com/momen shika" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="momen shika" height="30" width="40" /></a>
-  <a href="https://instagram.com/momen_shikaa" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="momen_shikaa" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/https://www.youtube.com/@momenshika4409" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@momenshika4409" height="30" width="40" /></a>
+<p align="center" style="margin: 50px;">
+  <a href="https://codepen.io/momentarek11" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/moamentarek/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="mailto:momentarek210@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/new-post.png" alt="Email" height="30" width="40" /></a>
+  <a href="https://wa.me/201271128807" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" /></a>
 </p>
 
-<h3 align="center" style="margin: 50px ;">Languages and Tools:</h3>
+
+<h3 align="center" style="margin: 50px;">Languages and Tools:</h3>
 
 <p align="center" style="margin: 50px;">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
@@ -70,15 +71,4 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
 </p>
-
-
-<p align="center" style="margin: 50px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=momentarek11&show_icons=true&locale=en&layout=compact&cache_seconds=1800" alt="momentarek11" />
-</p>
-
-
-<p align="center" style="margin: 50px ;">
-  <img src="https://github-readme-stats.vercel.app/api?username=momentarek11&show_icons=true&locale=en" alt="momentarek11" />
-</p>
-
 
