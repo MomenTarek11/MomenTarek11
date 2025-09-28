@@ -116,7 +116,6 @@ I focus on building clean, scalable, and responsive user interfaces with modern 
 </div>
 
 ---
-
 ## 🎯 2025 Goals
 
 - [ ] 🚀 Build 5 full production-ready Angular apps  
