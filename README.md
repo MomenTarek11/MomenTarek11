@@ -62,25 +62,22 @@ I focus on building clean, scalable, and responsive user interfaces with modern 
 
 ## 📊 GitHub Statistics
 
-<!-- <div align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=momentarek11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
-  <br/>
-  <br/>
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=momentarek11&layout=compact&langs_count=8&theme=tokyonight&border_radius=10"/>
-</div> -->
-
-<br/>
-
 <div align="center">
-  <!-- <img width="70%" src="https://streak-stats.demolab.com?user=momentarek11&theme=tokyonight&border_radius=10" alt="GitHub Streak Stats" /> -->
-  <img width="70%" src="https://github-readme-streak-stats-pi-one.vercel.app/?user=momentarek11&theme=tokyonight&border_radius=10" alt="GitHub Streak Stats" />
+  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=momentarek11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
+  <br/><br/>
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=momentarek11&layout=compact&langs_count=8&theme=tokyonight&border_radius=10"/>
 </div>
 
+<br/>
+
+<div align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=momentarek11&theme=tokyonight&border_radius=10&count_private=true" alt="GitHub Streak Stats" />
+</div>
 
 <br/>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=momentarek11&theme=tokyo-night&hide_border=true&area=true&border_radius=10" alt="Activity Graph" />
+  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=momentarek11&theme=tokyo-night&hide_border=true&area=true&border_radius=10&count_private=true" alt="Activity Graph" />
 </div>
 
 ---
