@@ -78,9 +78,6 @@ I focus on building clean, scalable, and responsive user interfaces with modern 
 
   <!-- Real contributions badge -->
 
-  <img src="https://img.shields.io/badge/Contributions-790%2B-brightgreen?style=for-the-badge&logo=github" alt="Total Contributions Badge"  style='margin-bottom:30px'/>
-
-  <p>🚀 Over <b>790 contributions</b> this year (including private repositories).</p>
 
 </div>
 
