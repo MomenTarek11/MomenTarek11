@@ -62,11 +62,11 @@ I focus on building clean, scalable, and responsive user interfaces with modern 
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<!-- <div align="center">
   <img width="70%" src="https://github-readme-stats.vercel.app/api?username=momentarek11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
   <br/><br/>
   <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=momentarek11&layout=compact&langs_count=8&theme=tokyonight&border_radius=10"/>
-</div>
+</div> -->
 
 <br/>
 
