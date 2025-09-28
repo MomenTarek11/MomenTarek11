@@ -62,25 +62,30 @@ I focus on building clean, scalable, and responsive user interfaces with modern 
 
 ## 📊 GitHub Statistics
 
-<!-- <div align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=momentarek11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
-  <br/><br/>
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=momentarek11&layout=compact&langs_count=8&theme=tokyonight&border_radius=10"/>
-</div> -->
-
-<br/>
-
 <div align="center">
+
+  <!-- Streak stats -->
+
   <img width="70%" src="https://streak-stats.demolab.com?user=momentarek11&theme=tokyonight&border_radius=10&count_private=true" alt="GitHub Streak Stats" />
-</div>
 
-<br/>
+<br/><br/>
 
-<div align="center">
+  <!-- Activity graph -->
+
   <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=momentarek11&theme=tokyo-night&hide_border=true&area=true&border_radius=10&count_private=true" alt="Activity Graph" />
+
+<br/><br/>
+
+  <!-- Real contributions badge -->
+
+  <img src="https://img.shields.io/badge/Contributions-790%2B-brightgreen?style=for-the-badge&logo=github" alt="Total Contributions Badge"  style='margin-bottom:30px'/>
+
+  <p>🚀 Over <b>790 contributions</b> this year (including private repositories).</p>
+
 </div>
 
 ---
+
 
 ## 🏆 GitHub Trophies
 
