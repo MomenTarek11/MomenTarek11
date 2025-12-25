@@ -70,6 +70,7 @@ I focus on building clean, scalable, and responsive user interfaces with modern 
 
 
 
+<br/><br/>
 
   <!-- Activity graph -->
 
