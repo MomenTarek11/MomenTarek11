@@ -66,9 +66,10 @@ I focus on building clean, scalable, and responsive user interfaces with modern 
 
   <!-- Streak stats -->
 
-  <img width="70%" src="https://streak-stats.demolab.com?user=momentarek11&theme=tokyonight&border_radius=10&count_private=true" alt="GitHub Streak Stats" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=momentarek11&theme=tokyonight&border_radius=10" alt="GitHub Streak Stats" />
 
-<br/><br/>
+
+
 
   <!-- Activity graph -->
 
