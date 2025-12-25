@@ -64,66 +64,76 @@ I focus on building clean, scalable, and responsive user interfaces with modern 
 
 <div align="center">
 
-  <!-- Streak stats -->
-
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=momentarek11&theme=tokyonight&border_radius=10" alt="GitHub Streak Stats" />
-
-
-
-<br/><br/>
-
-  <!-- Activity graph -->
-
+  <!-- Alternative Stats Cards -->
   <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=momentarek11&theme=tokyo-night&hide_border=true&area=true&border_radius=10&count_private=true" alt="Activity Graph" />
-
-<br/><br/>
-
-  <!-- Real contributions badge -->
-
+  <br/><br/>
+  
+  <!-- Alternative Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=momentarek11&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="70%" />
+  
+  <br/><br/>
+  
+  <!-- Simple Custom Counters -->
+  <table align="center">
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/dynamic/json?color=3349b2&label=Profile%20Views&query=value&url=https://api.countapi.xyz/hit/momentarek11.github-profile/views&style=for-the-badge" alt="Profile Views" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/github/followers/momentarek11?label=Followers&color=3349b2&style=for-the-badge" alt="Followers" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/github/stars/momentarek11?label=Total%20Stars&color=3349b2&style=for-the-badge" alt="Total Stars" />
+      </td>
+    </tr>
+  </table>
 
 </div>
 
 ---
 
+## 📈 GitHub Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=momentarek11&theme=tokyo-night&hide_border=true&area=true&border_radius=10&count_private=true&line=3349b2&point=7dcfff" alt="Activity Graph" width="90%" />
+</div>
+
+<div align="center">
+  <!-- Snake Animation -->
+  <img src="https://raw.githubusercontent.com/momentarek11/momentarek11/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="90%" />
+</div>
+
+---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=momentarek11&theme=tokyonight&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=momentarek11&theme=tokyonight&row=2&column=4&no-frame=true&margin-w=5&margin-h=5" alt="GitHub Trophies" width="90%" />
 </div>
 
 ---
 
-## 🐍 Contribution Graph
+## 💡 Quote of the Day
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=momentarek11&custom_title=Momen's%20Contribution%20Graph&bg_color=1a1b27&color=7dcfff&line=3349b2&point=bb9af7&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/momentarek11/momentarek11/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/momentarek11/momentarek11/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="80%" />
 </div>
 
 ---
 
-
-## Quote of the Day
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-
----
 ## 🎯 2025 Goals
 
-- [ ] 🚀 Build 5 full production-ready Angular apps  
-- [ ] 📚 Learn and practice React.js and Vue.js  
-- [ ] 🤝 Contribute to 10+ open source frontend projects  
-- [ ] 🎨 Improve UI/UX design skills and animations  
-- [ ] 📝 Write technical articles about Angular and frontend development  
+<div align="center">
+
+| Status | Goal |
+|:---:|:---|
+| 🔄 | 🚀 Build 5 full production-ready Angular apps |
+| 🔄 | 📚 Learn and practice React.js and Vue.js |
+| 🔄 | 🤝 Contribute to 10+ open source frontend projects |
+| 🔄 | 🎨 Improve UI/UX design skills and animations |
+| 🔄 | 📝 Write technical articles about Angular and frontend development |
+
+</div>
 
 ---
 
@@ -132,20 +142,31 @@ I focus on building clean, scalable, and responsive user interfaces with modern 
 <div align="center">
 
 **💡 Have a frontend project idea? Want to collaborate?**  
-**📧 Let’s build something amazing together**  
+**📧 Let's build something amazing together!**
 
-<img src="https://komarev.com/ghpvc/?username=momentarek11&label=Profile%20Views&color=3349b2&style=flat" alt="Profile Views" />
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-3349b2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://momentarek11.github.io)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/momentarek11/)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/your-id)
+
+<br/>
+
+**Connect with me on:**
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moamentarek/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/momentarek11)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:momentarek210@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/201271128807)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3349b2&height=80&section=footer" alt="Footer Wave" />
-</div>
-
-<div align="center">
   <h3>🌟 "Clean code always looks like it was written by someone who cares"</h3>
   
   **Built with ❤️ by Momen Tarek**
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3349b2&height=80&section=footer" alt="Footer Wave" />
 </div>
